@@ -6,6 +6,8 @@ A simple front-end e-commerce website built using **HTML**, **CSS**, and **JavaS
 
 ## 🚀 Overview
 
+![Ecommerce Preview](https://raw.githubusercontent.com/aaksh33/Ecommerce/main/img/Ecommerce_Image.jpg)
+
 This project is a **responsive**, static e-commerce template that simulates a basic shopping experience.  
 It includes:
 
